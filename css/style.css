@@ -1,0 +1,39 @@
+html{
+    height :120px;
+}
+
+#index-header{
+    height: 150px;
+}
+
+h1{
+    margin: 0px 0px;
+}
+
+.page-header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    background:scroll rgb(245, 224, 185);
+    height: 120px;
+  }
+
+
+.navigation-bar ul{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgb(245, 224, 185);
+    margin:0px 0px;
+    padding-bottom: 5px;
+}
+
+.navigation-bar ul li{
+    list-style-type: none;
+}
+
+main{
+    height: 100vh;
+    background-image: url(/img/annie-spratt-0ZPSX_mQ3xI-unsplash.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
