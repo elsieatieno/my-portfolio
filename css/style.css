@@ -38,3 +38,7 @@ main{
     background-size:cover;
     background-repeat: no-repeat;
 }
+body{
+    background-image: url(/img/annie-spratt-0ZPSX_mQ3xI-unsplash.jpg);
+    margin: 0px;
+}
