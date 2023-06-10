@@ -1,0 +1,28 @@
+img{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+#contact-id{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
+.icon-info{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+.icon-info img{
+    height: 15px;
+    width: 15px;
+}
+div{
+    display: flex;
+}
