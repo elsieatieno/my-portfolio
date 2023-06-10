@@ -1,9 +1,12 @@
-
+body{
+    background-image: url(/img/annie-spratt-0ZPSX_mQ3xI-unsplash.jpg);
+    margin: 0px;
+}
 
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 5px;
     font-size: 70px;
   
     
